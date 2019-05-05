@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     wenmeiyu
-zhihu_username:     yoyo
+zhihu_username:     wen-mei-yu-2
 github_username:    wenmeiyu
 # facebook_username:  baiying.qiu.7
 jianshu_username:   157b5957ce0e
@@ -39,9 +39,13 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 
-
+gems:
+plugins:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
 
 
 # Markdown settings
@@ -106,3 +110,4 @@ friends: [
         href: "https://github.com/yiyeshanren/"
     }
 ]
+
