@@ -9,7 +9,7 @@ catalog: true
 tags:
     - matrix factorization
     - paper
-	
+	- recommender system
 ---
 # paper1 matrix factorization
 
@@ -57,10 +57,7 @@ singular value decomposition(SVD)  奇异值分解
 
 extent 程度，范围
 
-
-
-
--------------
+---
 # paper2 l-Injection
 
 l-Injection  注射
@@ -114,8 +111,7 @@ preferences 偏好
 
 #### 6.Conclusions   总结
 
-
------------------
+---
 # review paper
 杨博, 赵鹏飞. 推荐算法综述[J]. 山西大学学报(自然科学版), 2011, 34(3):337-350.
 2 　问题及分析
@@ -127,7 +123,6 @@ preferences 偏好
 基于内容推荐的多样性
 2 .4 　其他问题
 例如托攻击问题[ 63] 、隐私问题[ 64]
-
 
 ---
 # paper3 non negative matrix factorization 非负矩阵因式分解
