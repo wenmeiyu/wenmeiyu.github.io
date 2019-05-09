@@ -9,7 +9,7 @@ catalog: true
 tags:
     - matrix factorization
     - paper
-	- recommender system
+    - recommender system
 ---
 # 参考资料
 
