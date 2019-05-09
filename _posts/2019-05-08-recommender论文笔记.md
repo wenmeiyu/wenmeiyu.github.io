@@ -11,6 +11,12 @@ tags:
     - paper
 	- recommender system
 ---
+# 参考资料
+
+>[Matrix Factorization Techniques for Recommender Systems](https://www.computer.org/csdl/magazine/co/2009/08/mco2009080030/13rRUxBa5fj)
+>[l-Injection: Toward Effective Collaborative Filtering Using Uninteresting Items](https://ieeexplore.ieee.org/abstract/document/7913668)
+>[A non negative matrix factorization for collaborative filtering recommender systems based on a Bayesian probabilistic model](https://www.sciencedirect.com/science/article/pii/S0950705115005006)
+
 # paper1 matrix factorization
 
 matrix          矩阵
@@ -81,9 +87,9 @@ All **datasets** and codes that we used are available at:[https://goo.gl/KUrmip]
 
 the Watcha dataset is privately  私下的
 released from a Korean movie recommendation company
-[http://watcha.net]
+[http://watcha.net](http://watcha.net)
 
-CCF-推荐的会议和期刊：[https://www.ccf.org.cn/xspj/gyml/]
+CCF-推荐的会议和期刊：[https://www.ccf.org.cn/xspj/gyml/](https://www.ccf.org.cn/xspj/gyml/)
 
 
 #### 1.Introduction   介绍
@@ -125,8 +131,12 @@ preferences 偏好
 例如托攻击问题[ 63] 、隐私问题[ 64]
 
 ---
-# paper3 non negative matrix factorization 非负矩阵因式分解
-A non negative matrix factorization for collaborative filtering recommender systems based on a Bayesian probabilistic model
+# paper3 non negative matrix factorization 
+
+A non negative matrix factorization 非负矩阵因式分解
+for collaborative filtering 
+recommender systems 
+based on a Bayesian probabilistic model
 
 
 
