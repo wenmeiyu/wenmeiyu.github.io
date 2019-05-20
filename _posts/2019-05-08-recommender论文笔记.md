@@ -106,12 +106,18 @@ preferences 偏好
 #### 4.Experiments 实验
 
 - 4.1 Experimental Setup   实验步骤
+
 - 4.2 Inference of Pre-Use Preferences    推理  使用前 偏爱，优先权
+
 - 4.3 User Satisfaction for Uninteresting Items  用户的 满意 无趣的 目标
+
 - 4.4 Effect of l-Injection  影响
+
 - 4.5 Accuracy of Modified CF Algorithms  精确度  改进的
+
 - 4.6 Running Time of Modified CF Algorithms 改进的
-- 4.7 Summary of Experimental Results   摘要
+
+- 4.7 Summary of Experimental Results   摘要  总结
 
 #### 5.Related Work  相关工作
 
