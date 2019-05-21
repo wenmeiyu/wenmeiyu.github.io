@@ -7,9 +7,7 @@ author:     wenmeiyu
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - matrix factorization
     - paper
-    - recommender system
 ---
 # 参考资料
 
