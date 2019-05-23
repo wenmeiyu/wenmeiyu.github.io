@@ -1,17 +1,17 @@
 ---
 layout:     post
-title:      流利阅读笔记1
-subtitle:   流利阅读笔记整理，单词，原文，笔记
+title:      Fluency Reading Notes 1
+subtitle:   Sort out fluency reading notes, words, originals, notes
 date:       2019-05-13
 author:     wenmeiyu
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - 流利阅读
+    - Fluency Reading
 ---
 # 前言
 
->流利阅读学习笔记7-14
+>Fluency Reading Notes 7-14
 
 ---
 # 7.May.13

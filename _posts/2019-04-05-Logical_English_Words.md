@@ -1,14 +1,16 @@
 ---
 layout:     post
-title:      逻辑英语单词
-subtitle:   逻辑英语单词链接集
+title:      Logical English Words
+subtitle:   Logical English Words lines
 date:       2019-04-05
 author:     wenmeiyu
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - 逻辑英语
+    - Logical English
 ---
+[单词小游戏](https://lyf.youdao.com/index.htm)
+
 # P类词
 
 ---
