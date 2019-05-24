@@ -130,17 +130,32 @@ For colorful frames that are not **exorbitantly** priced, you might try Eyebobs.
 # 16.May.21
 
 Social **media** are changing relations **between** the **royals**, the **press** and the public
-- media 媒体 medium 复数
+- media 媒体 
+	- medium 的复数形式
 - between 具体的
-	- among 区间,范围
-- royals 王室成员 royal的复数
+	- among 区间,范围,大概的区间
+- royals 王室成员   royal 的复数
 	- royal adj.王室的 n.王室成员
-- press n. 压；按；新闻；vt. 压；按；逼迫；紧抱
+- press   新闻  n. 压；按；新闻；vt. 压；按；逼迫；紧抱
 
-The press had been **camped** outside the Lindo Wing of St Mary’s hospital in west London for weeks before the birth of Prince George, son of the Duke and Duchess of Cambridge (better known as William and Kate), in July 2013. Archie Harrison Mountbatten-Windsor made a quieter entrance on May 6th. There were no waiting journalists because his parents, the Duke and Duchess of Sussex (Harry and Meghan), had kept the location of his birth secret. Instead, the first word of his arrival came via @sussexroyal, the couple’s official Instagram account, which scooped the press with a message reading: “It’s a boy!”
+The press had been **camped** outside the Lindo **Wing** of St Mary’s hospital in west London for weeks before the birth of Prince George, son of the Duke and Duchess of Cambridge (better known as William and Kate), in July 2013. Archie Harrison Mountbatten-Windsor **made a quieter entrance** on May 6th. There were no waiting **journalists** because his parents, the **Duke and Duchess** of Sussex (Harry and Meghan), had kept the location of his birth secret. Instead, the first word of his arrival came via @sussexroyal, the couple’s official Instagram account, which scooped the press with a message reading: “It’s a boy!”
 - camped 据守，蹲点
 	- camp v. 露营，野营，盘踞，据守
-	- 
+	- to remain persistently in one place
+- Wing n. 建筑的侧翼部分  侧厅  候场区
+	- sb. is in the wings
+	- sth. is waiting in the wings  在候场区等待 
+	- Lindo Wing  林多妇产中心
+- made a quieter entrance   阵仗小了很多
+	- made a entrance    正式登场,隆重登场
+	- to enter a room or building in a formal way or in a way that makes people notice you
+- journalists  n. 新闻记者（ journalist 的复数）
+	- journalist  n. 新闻工作者；报人；记日志者
+- Duke and Duchess   公爵和公爵夫人
+	- Duke   n. 公爵，（公国的）君主；公爵（种）樱桃
+	- Duchess  n. 公爵夫人；女公爵；雍容华贵的妇女；小老板娘  vi. 热情款待；讨好
+- keep sth. secret  对...保密
+- scooped  勺子,独家报道,抢先报道
 
 The relationship between Britain’s royal family and the media has long been strained. But two developments in recent years have made the palace and the press mutually less interested in each other. One is that British newspapers have toned down their royal muckraking. Tighter budgets mean that editors lack the staff to pursue princes and princesses as closely as they used to.
 
@@ -369,5 +384,104 @@ If the Trump administration's latest step represents **a deliberate attempt** to
 	- The admission process lacks transparency  这个录取过程缺乏透明度
 - intentions   n. 目的，意向，意图；打算（ intention 的复数）
 	- intention  n. 意图；目的；意向；愈合
+
+---
+# 18.May.23
+
+Rihanna, **breaking new ground**, **joins with** LVMH for fashion **brand**
+- breaking new ground  开辟新天地,创新
+	- break   v.打破
+	- ground   n.地面,领域
+	- groundbreaking    开创性的,创新的
+	- His latest movie is interesting, but not groundbreaking.  他最近拍的电影很有趣但是没有创新
+- joins with   与...联手
+	- join with...
+- brand   品牌
+
+On Friday, LVMH Moët Hennessy Louis Vuitton, the world’s largest **luxury group**, **officially confirmed** not only that the fashion **line** created by Rihanna was becoming part of its **gilded stable** but also that the first products from the new company would be **unveiled** — in a few weeks.
+- luxury group 奢侈品集团
+	- luxury  adj. 奢侈的 n. 奢侈
+	- group  企业集团
+- line n.类别,线条
+	- a type of product 
+	- It started a new line on casual clothes.  开了一条专门做休闲装的品牌
+- officially confirmed   官方证实
+	- officially  adv. 正式地；官方地；
+	- confirmed  v. 确证；使坚定（confirm的过去分词）；批准
+- gilded stable  奢侈产品
+	- gilded 镀金的,富有的,上层阶级的
+		- gild   v.涂上金色,镀金
+		- gild the lily  画蛇添足,给百合花镀金
+	- stable  马厩,养马的地方,公司旗下所有产品
+		- a group of products made by the same company
+- unveiled   v.wei...揭幕,首次展出,推出 
+	- veil n.头纱,面纱   v.遮盖,隐藏
+	- un  表示否定前缀
+
+Rihanna will become the first woman to create an **original brand** at LVMH and the first woman of **color** at the top of an LVMH **maison**, and her line will be the first new **house** created by the group since Christian Lacroix in 1987. It joins such **storied heritage** brands as Dior, Givenchy, Celine and Fendi and **positions** Rihanna as a **breakthrough designer on a number of levels**.
+- original brand 原创品牌
+	- original  adj. 原始的；最初的；独创的；新颖的
+- color   n. 颜色；肤色；
+	- woman of color  非白人女性
+	- people of color 有色人种
+- maison  房子,n.法语词,公司,品牌
+- house  n. 品牌,公司,尤指图书出版或服装设计公司
+- storied heritage
+	- storied  经常提及的,有名的
+		- story  n.故事
+		- the most storied romance   广为流传的佳话
+	- heritage 遗产,老牌产品,金典品牌
+- positions   将某人定位为某个角色或职位
+	- position  vt. 安置；把……放在适当位置  n. 位置
+- breakthrough n. 突破；突破性进展
+	- breakthrough designer  有突破性的设计师
+- on a number of levels  在多个层面上
+
+The Group **resources** are **notably** large — LVMH reported **first-quarter revenue** in April of 12.5 billion euros ($14.1 billion), **an increase of 16%** — and the **emphasis** on “**multicultural**, ” in a time when many luxury brands are suffering from **charges** of cultural **insensitivity** and **discrimination**, is **significant**.
+- resources   财力,资金
+	- resource  n. 资源，财力；办法；智谋
+- notably  格外地,值得注意地 adv. 显著地；尤其
+	- notable  adj. 值得注意的，显著的；  n. 名人，显要人物
+- first-quarter revenue  第一季度营收
+	- first-quarter 第一季度
+	- quarter  n. 四分之一；地区；季度；
+	- revenue    n. 税收收入；财政收入；收益
+- an increase of 16%  同比增长16%
+- emphasis   n. 重点；强调；加强语气
+	- emphases  复数形式
+- multicultural  多元文化的,融合多元文化的
+	- multi-  表示多个的,多元的
+- charges 指责
+- insensitivity    n. 漠视,忽视
+	- insensitive   漠不关心的,忽略他人感受的
+	- be insensitive to sth 
+	- Some people are completely insensitive to my feelings  有些人说话完全不顾你的感受
+	- sensitive   adj. 敏感的；感觉的
+	- sensitivity   n. 敏感；敏感性
+	- cultural sensitivity  不同文化的尊重和体谅
+	- cultural insensiticity   模式文化差异
+- discrimination  n. 歧视；区别，辨别；识别力
+	- crimination  n. 控告；责备；证明有罪
+	- criminate vt. 定罪；使负罪；责备
+- significant   adj. 重大的；有效的；有意义的；
+
+LVMH has been **making strides** in recent years to **right** the gender balance in luxury, **appointing** the first female designers of Givenchy in 2017 and Dior in 2016.
+- making strides  取得进展
+	- strides  n.大步,阔步
+	- make progress  取得进步
+- right v.纠正,使恢复正常
+	- right the economy  使经济恢复正常
+	- right a terrible situation  让一个糟糕的局面恢复正常
+- appointing   appoint的进行时
+	- appoint  v.任命,委派
+	- appoint sb. as sth.  把某人任命为某个职位
+
+Fenty, however, has made **inclusivity** of all kinds — size, race, gender **identity** — part of its identity from the beginning.
+- inclusivity  包容性
+	- inclusive adj. 包含的，包括的；
+	- include  vt. 包含，包括
+- make A part of B    使A成为B的一部分
+- identity   n.对身份或特征的认同,特征
+	- gender identity  性别认同
 
 
