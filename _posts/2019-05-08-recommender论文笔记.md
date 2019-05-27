@@ -15,6 +15,7 @@ tags:
 >[l-Injection: Toward Effective Collaborative Filtering Using Uninteresting Items](https://ieeexplore.ieee.org/abstract/document/7913668)
 >[A non negative matrix factorization for collaborative filtering recommender systems based on a Bayesian probabilistic model](https://www.sciencedirect.com/science/article/pii/S0950705115005006)
 
+---
 # paper1 matrix factorization
 
 matrix          矩阵
@@ -24,14 +25,21 @@ for
 recommender
 systems
 
+Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 8 (2009): 30-37.
+
 #### 1.Abstract/Background   摘要/背景
 
 Netflix Prize  competition  Netflix大奖赛
 
 #### 2.Recommender system strategies 推荐系统策略
 
-content filtering 内容过滤
 broadly speaking 广泛地说
+
+- two strategies
+	- content filtering 内容过滤
+		- the Music Genome Project
+		- the neighborhood methods and latent factor models
+
 profile 轮廓，外形，简况，特征
 genre 类型，种类
 and so forth 等等
@@ -144,7 +152,45 @@ based on a Bayesian probabilistic model
 
 Knowledge-BasedSystems   ccf-c
 
-abstract  
+#### abstract  
+Our technique is based on factorizing  因式分解
+the rating matrix 评分矩阵
+into two non negative matrices 非负矩阵
+whose components 成分
+lie with in the range[0,1] with an understandable  
+probabilistic  概率的
+meaning.
+
+#### 1.Introduction
+
+Recommender systems 分为两大类:
+
+- Based on contents.
+
+- Based on collaborative filtering.
+	- Based on Memory
+	- Based on models
+
+Inourpaperwewillpresentanoveltechniqueforfactoringtheratingmatrix,preservingtheadvantagesoftheclassicalfactoriza-tiontechnique:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
