@@ -11,10 +11,10 @@ tags:
 ---
 # 前言
 
->Fluency Reading Notes 27-31, The forth week
+>Fluency Reading Notes 21-27, The forth week
 
 ---
-# 22.May.27
+# 21-May.27
 
 How **creepy** is your **smart speaker**?
 - creepy   怪异的，令人毛骨悚然的，不寒而栗的,让人起鸡皮疙瘩的 adj. 诡异的；令人毛骨悚然的；爬行的 
@@ -125,6 +125,152 @@ The **chief** thing is that consumers should be able to choose how to balance co
 	- main  adj. 主要的，最大的，最重要的
 	- most important  最重要的
 - potential  n. 潜能，可能性；电势
-	
+
+---
+# 22-May.28
+
+A **majority** of Americans want **abortion** to be legal in the first two **trimesters**
+- majority  n. 多数；成年
+- abortion  n. 流产，堕胎，小产；流产的胎儿；（计划等）失败，夭折
+- trimesters   妊娠三月期
+	- trimester   n. 三个月；一学期
+	- a three-month period  (周期)
+	- tri   三个,三
+	- triple  三倍的
+
+If the Alabama **legislature gets its way**, abortion will soon become illegal there. A doctor **convicted of** performing an abortion could be **sentenced to** up to 99 years in prison. With no **exemptions** in cases of **rape** or **incest**, this would be the most **restrictive** such law in the country.
+- legislature  n. 立法机关；立法机构
+	- the national legislature   国家立法机构
+- gets its way 如愿以偿   带贬义
+	- get one's way 
+	- get one's own way 
+	- have one's own way
+- convicted of 宣判有罪
+	- convict  vt. 证明…有罪；宣告…有罪
+- sentenced to 判处...罪行
+	- be sentenced to death 
+	- sentence  vt. 判决，宣判  n.句子
+- exemptions  免除
+	- exemption  n. 免除，豁免；免税
+	- exempt  vt. 免除；豁免
+	- exemption from military service  免服兵役
+- rape n. 强奸，掠夺；[园艺] 油菜；葡萄渣  vi. 犯强奸罪
+	- He was convicted of rape  他被判有强奸罪
+- incest  n. 乱伦；近亲通婚
+- restrictive   adj. 限制的；限制性的；约束的
+	- restriction   n. 限制；约束；束缚 
+	- restriction on abortion  对堕胎的限制
+
+But other states with Republican-controlled legislatures have passed “heartbeat” laws that are almost as **absolute** — they ban abortion from 6 weeks, at which point many women do not yet realise they are **pregnant**.
+- absolute  adj. 绝对的；完全的；专制的
+- pregnant adj. 怀孕的；富有意义的
+	- pregnancy  n. 怀孕；丰富，多产；意义深长
+
+In the abortion argument, both sides long ago **drove each other to extremes**. The **pro-life**, **fundamentalist** view behind the Alabama **bill** is that a **fertilised** egg is no different from a person, and thus should enjoy the same legal rights. Accept that, and what right does a woman have to take a morning-after pill, or to end a pregnancy after a rape? The **pro-choice** extreme is that any restriction on abortion is an unacceptable **attempt** by government to control women’s bodies. With debate **gridlocked**, the focus is on the courts.
+- drove each other to extremes  把对方逼到了极端
+	- drove  强迫,迫使
+		- drive   vt. 推动，发动（机器等）；驾驶（马车，汽车等）；驱赶
+	- extremes  n. 狂热分子，极端条件
+	- extreme  n. 极端；末端；最大程度；极端的事物
+- pro-life  反对堕胎的
+	- pro  赞成,支持...的
+	- pro-choice   支持堕胎的
+- fundamentalist   原教旨主义的
+	- fundamentalism  n. 原教旨主义
+- bill  n. [法] 法案；广告；账单；[金融] 票据；钞票；清单
+	- bills   bill 的复数  法案,议案,还没有通过的法律草案
+	- law   法律
+- fertilised  v. 使受精，使受粉，使受孕；
+	- fertilized adj. 已受精的
+	- a fertilised egg  受精卵
+- A is no different from B  A和B没有什么不同
+- attempt  n. 企图，试图；攻击
+	- attempting vt. 企图，试图；尝试
+- gridlocked   使陷入僵局
+	- gridlock   v. 交通堵塞 使陷入僵局  n. 交通全面堵塞；（政治）僵局
+	- grid  网格
+	- lock  锁住
+	- Congress is in gridlock  国会陷入僵局
+
+The latest abortion bills are about two things: preventing women from making a choice that is **properly** theirs, and getting a challenge to **Roe to the Supreme Court** where, **campaigners** hope, they can **smoke out** the new **conservative** majority.
+- prevent sb from doing sth.  阻止某人做某事
+- properly   adv. 适当地；正确地；恰当地
+- Roe to the Supreme Court  罗诉韦德案
+	- the Supreme Court  最高法院
+- campaigners  活动家们
+	- campaigner  n. 竞选者；从军者；出征者；老兵
+- smoke out  使公之于众  用烟把人或者动物熏出来
+- conservative  adj. 保守的 n. 保守派，守旧者
+
+Were Alabama’s law to come into force, the price would be paid by women too poor or **browbeaten** to travel to where abortions are legal. Some of them will end up attempting to **perform** abortions themselves, with drink, **drugs** or worse.
+- browbeaten v. 威逼，恫吓（browbeat 的过去分词）
+	- browbeat vt. 恫吓，吓唬；欺侮
+	- to browbeat sb. into doing sth.  恐吓某人做某事
+	- They were browbeaten into accepting the offer 他们被迫接受某些条件
+- perform  vt. 执行；完成；演奏
+- drugs 吸毒   n. 毒品，[药] 药物
+
+---
+# 23-May.29
+
+The joy of **absence**
+- absence n. 没有；缺乏；缺席；不注意
+	- absent adj. 缺席的；缺少的；心不在焉的；茫然的 vt. 使缺席
+
+Studies **suggest** that, after 50 hours a week, employee **productivity falls sharply**.
+- suggest   有研究表明...
+	- say
+	- imply 
+	- show
+- productivity   n.工作效率， 生产效率
+	- productive  adj. 富有生产力的
+	- His productivity is the highest  他的工作效率最高
+	- He is the most productive employee 他是工作效率最高的员工
+	- employee productivity  员工工作效率
+- falls sharply  急剧下降
+	- fall   vi. 落下；变成；来临；减弱
+	- sharply    adv. 急剧地；锐利地
+
+But that doesn’t stop some managers from **demanding** that workers stay **chained** to their desk for long periods. **Presenteeism** is the **curse** of the modern office worker.
+- stop ... from doing ...   阻止某人做某事
+- demanding    强制要求
+	- demand  v. 强烈要求；需要；逼问；查问，查询
+- chained  用链子捆住
+	- chain  n.链子 n. 链；束缚；枷锁 vt. 束缚；囚禁；用铁链锁住
+	- I chained my bike to the railings  我把自行车拴在了栏杆上
+	- A stays chained to B  A被B拴住了
+	- A is chained to B 
+- Presenteeism  n.全勤主义
+	- present  出席的,在场的
+	- ism  主义
+	- presenteeism  全勤主义
+	- A work but out of it
+- curse 诅咒 n.祸根,祸因
+	- a cause of harm and misery
+	- Noise is the curse of modern city life 噪音是现代生活的祸根
+
+There will be days when you do not have much to do; perhaps because you are waiting for someone else in a different department, or a different company, to respond to a request. But you can see your boss hard at work and, more important, they can see you. So you make an effort to look busy.
+
+Some of this may be a self-perpetuating cycle. If bosses do not like to go home before their underlings, and underlings fear leaving before their bosses, everyone is trapped.
+
+The consequence is often wasted effort. Rather than work hard, you toil to make bosses think that you are. Leaving a jacket on your office chair, walking around purposefully with a notebook or clipboard and sending out emails at odd hours are three of the best known tricks. After a while this can result in collective self-delusion that this pretence is actual work.
+
+But presenteeism has more serious consequences. It is perhaps most prevalent in Japan, where people attend the office even when they are in discomfort. In doing so, they are doing neither themselves, nor their employers, any favours.
+
+Turning an office into a prison, with inmates allowed home for the evenings, does nothing for the creativity that is increasingly demanded of office workers as routine tasks are automated. To be productive you need presence of mind, not being present in the flesh.
+
+
+---
+# 24-May.30
+
+---
+# 25-May.31
+
+---
+# 26-June.01
+
+---
+# 27-June.02
+
 
 

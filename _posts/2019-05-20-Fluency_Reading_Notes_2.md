@@ -11,10 +11,10 @@ tags:
 ---
 # 前言
 
->Fluency Reading Notes 15-25, The third week
+>Fluency Reading Notes 14-20, The third week
 
 ---
-# 15.May.20
+# 14-May.20
 
 What male **CEOs** are wearing
 - CEO Chief Executive Officer  首席执行官
@@ -127,7 +127,7 @@ For colorful frames that are not **exorbitantly** priced, you might try Eyebobs.
 	- spot vt. 看到,认出；弄脏；用灯光照射 n. 地点；斑点
 
 ---
-# 16.May.21
+# 15-May.21
 
 Social **media** are changing relations **between** the **royals**, the **press** and the public
 - media 媒体 
@@ -164,7 +164,7 @@ At the same time, the internet has made British papers less important to the mon
 This is especially true of social media. The royal family has upped its social game, hiring a head of digital engagement in 2016. It now has several social-media accounts, each with millions of followers, who monitor the royals’ activities alongside those of Beyoncé or Kim Kardashian.
 
 ---
-# 17.May.22
+# 16-May.22
 
 South Korea's **latest big export**: Jobless college graduates
 - latest big export 最近的大众出口商品
@@ -270,7 +270,7 @@ For those who **escaped** Korea's tough job market, not all has been **rosy**. S
 	- condition n. 条件；情况；环境；身份
 
 ---
-# 18.May.23
+# 17-May.23
 
 **Trump administration owes** Americans answers about **restrictions** on Huawei
 - Trump administration   川普政府
@@ -386,7 +386,7 @@ If the Trump administration's latest step represents **a deliberate attempt** to
 	- intention  n. 意图；目的；意向；愈合
 
 ---
-# 18.May.23
+# 18-May.24
 
 Rihanna, **breaking new ground**, **joins with** LVMH for fashion **brand**
 - breaking new ground  开辟新天地,创新
@@ -483,5 +483,11 @@ Fenty, however, has made **inclusivity** of all kinds — size, race, gender **i
 - make A part of B    使A成为B的一部分
 - identity   n.对身份或特征的认同,特征
 	- gender identity  性别认同
+
+---
+# 19-May.25
+
+---
+# 20-May.26
 
 

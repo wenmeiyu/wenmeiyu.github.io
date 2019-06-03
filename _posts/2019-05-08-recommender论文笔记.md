@@ -171,7 +171,7 @@ Recommender systems 分为两大类:
 	- Based on Memory
 	- Based on models
 
-Inourpaperwewillpresentanoveltechniqueforfactoringtheratingmatrix,preservingtheadvantagesoftheclassicalfactoriza-tiontechnique:
+In our paper we will present an ovel technique for factoring the rating matrix, preserving the advantages of the classical factorization technique:
 
 
 

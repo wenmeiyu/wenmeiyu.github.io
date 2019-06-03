@@ -11,10 +11,10 @@ tags:
 ---
 # 前言
 
->Fluency Reading Notes 7-14
+>Fluency Reading Notes 7-13, The second week.
 
 ---
-# 7.May.13
+# 7-May.13
 
 Many Chinese **suffer discrimination** based on their **regional origin**
 - suffer 遭受
@@ -38,7 +38,7 @@ Egregious examples of regional stereotyping occasionally cause outcry. In 2017, 
 Some lawyers say a legal loophole is partly to blame. China’s employment law prohibits discrimination on grounds of ethnicity, sex, religion, disability, social background and health. Regional origin, however, is not mentioned. Some legal scholars and legislators have called for a wider law that would prohibit all kinds of unfair discrimination, including the region-based sort.
 
 ---
-# 8.May.14
+# 8-May.14
 
 Cheating men can be spotted by their face type, study suggests
 
@@ -58,5 +58,19 @@ Dr Kristen Knowles, an evolutionary psychologist from Queen Margaret University 
 
 But Knowles stressed it should not be assumed that men with masculine faces were likely to be unfaithful. “We should be aware that these behaviours are incredibly complex, and are likely to be influenced by many factors, including social and cultural effects, personality, genetics and life experiences, ” she said.
 
+---
+# 9-May.15
+
+---
+# 10-May.16
+
+---
+# 11-May.17
+
+---
+# 12-May.18
+
+---
+# 13-May.19
 
 

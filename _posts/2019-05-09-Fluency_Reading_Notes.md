@@ -11,10 +11,10 @@ tags:
 ---
 # 前言
 
->Fluency Reading Notes 1-6
+>Fluency Reading Notes 1-6, The first week.
 
 ---
-# 1.May.07
+# 1-May.07
 
 Why are **airlines** so **keen on** the **fantasy** of the Mile-High Barbie?
 - airline n.航空公司；航线  adj.航线的
@@ -40,7 +40,7 @@ It’s a kind of chauvinistic laziness—an easy (and gratuitous) way to keep se
 
 
 ---
-# 2.May.08
+# 2-May.08
 
 What happens to our data when we die? Elaine Kasket on a digital **dilemma**
 - sb. on sth 某人就某事发表看法
@@ -84,7 +84,7 @@ What’s the bare minimum you’d advise people to do?
 It’s a good idea to clean your digital house frequently. If nothing else, you don’t want relatives buried under a hundredweight of undifferentiated data with no sense of what is important to you. The default is to become a digital extreme hoarder, with data up to the rafters. The things which are really important to you, the artefacts you want to pass on to future generations, put them in a physical form. You cannot trust corporations to safeguard your data.
 
 ---
-# 3.May.09
+# 3-May.09
 
 Starbucks' China **challenger** Luckin to **raise up to** $800 million in U.S. **IPO**: **sources**
 - challenger  n.挑战者 
@@ -129,7 +129,7 @@ According to the prospectus, its acquisition cost per new customer decreased to 
 “The big question for the brand long term is if, when it rolls back discounts, enough customers stick around, ” said Ben Cavender, Shanghai-based principal at China Market Research Group, “But the company has completely rewritten the rules for the coffee business in China and has impacted Starbucks as well as a host of smaller players.”
 
 ---
-# 4.May.10
+# 4-May.10
 
 Chinese family **reportedly** paid $6.5 million for **spot** at Stanford.
 - reportedly  adv.据说
@@ -171,3 +171,10 @@ At a **court hearing** in March, the **lead prosecutor** in the admissions case,
 She was ultimately not recruited, but Rosen said that she was admitted to Stanford partly on the basis of those false credentials and that, after her admission, Singer made a $500, 000 donation to the Stanford sailing program.
 
 Zhao appears to have participated in a recent conference hosted by the Princeton U.S.-China Coalition. Her biography on the group’s website said she was planning to major in Psychology and East Asian Studies and was interested in education policy in China.
+
+---
+# 5-May.11
+
+
+---
+# 6-May.12
