@@ -11,42 +11,52 @@ tags:
 ---
 # 前言
 
->Fluency Reading Notes 02-06, The fifth week
+>Fluency Reading Notes 28-34, The fifth week
 
 ---
-# 31.July.02
+# 28-June.03
 
-What if an **asteroid** was about to hit Earth? Scientists **ponder** question
--What if ... 如果...怎么办
-	- What if you don't pass your exams? 如果你考试没通过怎么办
-	- What if an asteroid was about to hit Earth？ 如果一颗小行星将要撞到地球怎么办
-- asteroid  小行星
-	- aster 星星
-	- astronaut 宇航员
-	- astronomy 天文学
-	- astronomer 天文学家
-- ponder  沉思，考虑
-	- consider  考虑
-	- ponder sth
-	- ponder over sth
-	- She pondered over her next words 她经过深思熟虑说出了下一句话
-	- ponder 更加深沉严肃  consider 适用更广泛
-	- consider sth to be sth  认为某事属于某种情况
+**British politics** after Theresa May
+- British politics  英国政治,英国政坛
+	- British politics post Theresa May 
+	- postpone vt. 使…延期；把…放在次要地位；把…放在后面
 
-Here's a **hypothetical**: a **telescope detects** an asteroid between 100 and 300 meters in **diameter** racing through our **sola**r system at 14 kilometers per second, 57 million kilometers from Earth.
-- hypothetical  假设的，假定的  n.假设，假定
-	- a hypothetical question 一个假设问题
-	- At present we won't speculate(v.推测,思索) on hypotheticals 我们目前不考虑任何假设情形
+Theresa May **strode** out of the door of 10 Downing Street in a **crimson business suit** and **bowed to** the inevitable. Having failed three times to get her Brexit deal through a hopelessly divided parliament, and confronted with a Tory insurrection over her proposed fourth attempt, she announced on May 24th that she would step down as leader of the Conservative Party and Britain’s prime minister.
+- strode  v. 大步走,阔步走    stride 的过去式
+	- stride  vt. 跨过；大踏步走过；跨坐在…
+	- stride toward 走向什么地方
+	- stride out of 大步走出了...
+	- She strode toward the door. 她大步地朝门的方向走去
+	- She strode out of the door of 10 Downing Street. 她大步走出了唐人街10号的门
+- crimson business suit   深红色的公务西装
+	- crimson  深红色的, 暗红色的
+	- The leaves turn crimson in autumn. 树叶在秋天变成了深红色
+- bowed to 屈服于,向...鞠躬
+	- bow 
+	- bow to the audience
+	- bow to the pressure 
 
-Astronomers estimate a one percent risk the space rock will collide with our planet on April 27, 2027. What should we do?
+The immediate trigger for Mrs May’s departure was the failure of her revised withdrawal bill. But the bigger trigger was the general election that she called back in June 2017. Her instincts were right: increasing the Tories’ majority would have allowed her to increase her bargaining power with her party and ensure that she was not hostage to pro- or anti-Brexit factions. But the election was a debacle.
 
-It's this potentially catastrophic scenario that 300 astronomers, scientists, engineers and emergency experts are applying their collective minds to this week in a Washington suburb, the fourth such international effort since 2013.
+British politics will now be consumed by the race to succeed Mrs May. The next leader will have to grapple with the same forces that have destroyed Mrs May: a country as well as a party that is torn over Brexit; a political system that is being pulled apart by the tension between representative and direct democracy; and a conflict with the European Union that, despite repeated statements to the contrary by Brexiteers, has most of the cards in its hand. Mrs May will not be the last prime minister to be brought to tears by Brexit.
 
-This week's exercise seeks to simulate global response to a catastrophic meteorite. The first step is aiming telescopes at the threat to precisely calculate its speed and trajectory, following rough initial estimates.
+---
+# 29-June.04
 
-Then it boils down to two choices: try to deflect the object, or evacuate. If it is less than 165 feet in diameter, the international consensus is to evacuate the threatened region. What about bigger objects? The plan is to launch a device toward the asteroid to divert its trajectory — like a cosmic bumper car.
+---
+# 30-June.05
 
-One issue that remains is politics, says Romana Kofler, of the United Nations Office for Outer Space Affairs. "Who would be the decision making authority?" she asked. "The consensus was to leave this aspect out."
-	
+---
+# 31-June.06
+
+---
+# 32-June.07
+
+---
+# 33-June.08
+
+---
+# 34-June.09
+
 
 
