@@ -58,6 +58,37 @@ British politics will now be consumed by the race to succeed Mrs May. The next l
 ---
 # 29-June.04
 
+Tech’s latest stars have it all — **except** a path to high profits
+- except  prep. 除…之外
+	- prep. 除…之外   unless  besides  in addition to
+
+Investors often describe the world of business **in terms of** animals. Right now, **mere ponies** are being presented as **unicorns**: privately held tech firms worth over $1bn that are **supposedly** strong and **world-beating** — **miraculous** almost.
+- in terms of 就...而言，根据...来看
+- mere ponies  
+	- mere  不过，仅仅的  adj. 仅仅的；只不过的
+	- ponies  小马   pony 的复数
+	- pony  n. 矮种马；小型马  vt. 付清
+- unicorns  独角兽
+- supposedly   adv. 可能；按照推测；恐怕   据说，据传
+- world-beating    世界一流的, 打败世界的
+	- a world-beating athlete/company  世界一流的运动员，数一数二的公司
+- miraculous    adj. 不可思议的，奇迹的
+	- miracle  n.奇迹
+	- a miraculous comeback  奇迹般地反败为胜
+ 
+There is, however, a problem with the unicorns: their business models.
+
+As we report this week, a dozen unicorns that have listed, or are likely to, posted combined losses of $14bn last year. Their cumulative losses are $47bn. Their services, from ride-hailing to office rental, are often deeply discounted in order to supercharge revenue growth. The justification for this is the Silicon Valley doctrine of “blitzscaling” in order to conquer “winner-takes-all” markets — or in plain English, conducting a high-speed land grab in the hope of finding gold.
+- 
+
+The big worry is that the unicorns' losses reflect not temporary growing pains but markets which are contested and customers who are promiscuous. Despite subsidies, ride-sharing customers are not locked in to one firm. No wonder Lyft’s shares have fallen by over 20% below their IPO price. Anyone can lease an office and rent out desks, not just WeWork.
+
+External forces will make blitzscaling harder, too. Compared with the earlier generation of firms, today a reaction is in full swing, including over digital taxes and data and content laws.
+
+All this is good for consumers. Investors, meanwhile, need to hold their nerve. It is tempting to extrapolate the triumph of Google and Alibaba to an entire new group of firms.
+
+The blitzscale philosophy of buying customers at any price is peaking. After the unicorns, a new and more convincing species of startup will have to be engineered.
+
 ---
 # 30-June.05
 

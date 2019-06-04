@@ -29,6 +29,80 @@ tags:
 - 撸词新闻  [No.2-3 - C类词串攻坚战：更多的包容与环绕（2）](https://c.youdao.com/article/index.html?pid=8722)
 
 ---
+# M类词
+
+---
+- 单词课程  [No.2-9 - M类词串记忆树：M构词初体验](https://c.youdao.com/article/index.html?pid=8656)
+- 单词词单  [No.2-9 - M类词串记忆树：M构词初体验](http://recite.youdao.com/share/index.html?bookId=0f9e0a0db4f837e574284f600f15576d&testMode=0&tt=1535979596917)
+- 撸词新闻  [No.2-9 - M类词串记忆树：M构词初体验](https://c.youdao.com/article/index.html?pid=9142)
+- 撸词词单  [No.2-9 - M类词串记忆树：M构词初体验](http://recite.youdao.com/share/index.html?bookId=f5d99820ea3f19ec9225a4790fdddf21&testMode=0&tt=1536066275243)
+
+---
+# F类词
+
+---
+- 单词课程  [No.2-12 - F类词串记忆树：F逻辑图谱](https://c.youdao.com/article/index.html?pid=9052) 
+- 单词词单  [No.2-12 - F类词串记忆树：F逻辑图谱](http://recite.youdao.com/share/index.html?bookId=fafde0f7eb0d66cdf6d1017b06d3d46a&testMode=0&tt=1536153781091)
+- 撸词新闻  [No.2-12 - F类词串记忆树：F逻辑图谱](https://c.youdao.com/article/index.html?pid=9248)
+- 撸词词单  [No.2-12 - F类词串记忆树：F逻辑图谱](http://recite.youdao.com/share/index.html?bookId=9d3b3a552f2a1b4967afe594d5ad719d&testMode=0)
+
+---
+- 单词课程  [No.2-14 - F类词串记忆树：从fort到fess](https://c.youdao.com/article/index.html?pid=9164)
+- 单词词单  [No.2-14 - F类词串记忆树：从fort到fess](http://recite.youdao.com/share/index.html?bookId=fb5b1a917c72e0c9708976619d3ce963&testMode=0)
+- 撸词新闻  [No.2-14 - F类词串记忆树：从fort到fess](https://c.youdao.com/article/index.html?pid=9502)
+- 撸词词单  [No.2-14 - F类词串记忆树：从fort到fess](http://recite.youdao.com/share/index.html?bookId=f1ef6abfc93821599a1f7643cce4fe8c&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](https://c.youdao.com/article/index.html?pid=9214)
+- 单词词单  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](http://recite.youdao.com/share/index.html?bookId=47105b00ab6e237226a52a582857d84f&testMode=0&reciteType=list)
+- 撸词新闻  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](https://c.youdao.com/article/index.html?pid=9574)
+- 撸词词单  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](http://recite.youdao.com/share/index.html?bookId=c91d7bd89127c173c32f2fbfee05ca36&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-26 - 词汇进阶：F词和H词](https://c.youdao.com/article/index.html?pid=9810)
+- 单词词单  [No.2-26 - 词汇进阶：F词和H词](http://recite.youdao.com/share/index.html?bookId=62bd80d82f02c30d530f755991882c72&testMode=0&reciteType=list)
+- 撸词新闻  [No.2-26 - 词汇进阶：F词和H词](https://c.youdao.com/article/index.html?pid=10086)
+- 撸词词单  [No.2-26 - 词汇进阶：F词和H词](http://recite.youdao.com/share/index.html?bookId=09a8c6d2fd80e362918183ce3c2c8689&testMode=0&reciteType=list)
+
+---
+# E类词
+
+---
+- 单词课程  [No.2-18 - E类词延伸：从E到En](https://c.youdao.com/article/index.html?pid=9552)
+- 单词词单  [No.2-18 - E类词延伸：从E到En](http://recite.youdao.com/share/index.html?bookId=514f83db9beaf37d23399d4ec49c6c1e&testMode=0&reciteType=list)
+- 撸词新闻  [No.2-18 - E类词延伸：从E到En](https://c.youdao.com/article/index.html?pid=9624)
+- 撸词词单  [No.2-18 - E类词延伸：从E到En](http://recite.youdao.com/share/index.html?bookId=68a839929c8aaa17056b8370612c1e00&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-19 - E类词延伸：常用高阶E类词](https://c.youdao.com/article/index.html?pid=9600)
+- 单词词单  [No.2-19 - E类词延伸：常用高阶E类词](http://recite.youdao.com/share/index.html?bookId=4d924d63761f17d9dd2f6463a9167e93&testMode=0&reciteType=list)
+- 撸词新闻  [No.2-19 - E类词延伸：常用高阶E类词](https://c.youdao.com/article/index.html?pid=9676)
+- 撸词词单  [No.2-19 - E类词延伸：常用高阶E类词](http://recite.youdao.com/share/index.html?bookId=daa1a5e87ac77173758228e62b23c077&testMode=0&reciteType=list)
+
+---
+# L类词
+
+---
+- 单词课程  [No.2-21 - L类词串记忆树：线条之美说起](https://c.youdao.com/article/index.html?pid=9652)
+- 单词词单  [No.2-21 - L类词串记忆树：线条之美说起](http://recite.youdao.com/share/index.html?bookId=91d0f30b2d57d81a3f026e8c4f9770ec&testMode=0)
+- 撸词新闻  [No.2-21 - L类词串记忆树：线条之美说起](https://c.youdao.com/article/index.html?pid=9752)
+
+---
+- 单词课程  [No.2-22 - L类词串记忆树：其他L词](https://c.youdao.com/article/index.html?pid=9688)
+- 单词词单  [No.2-22 - L类词串记忆树：其他L词](http://recite.youdao.com/share/index.html?bookId=05d1c9d78ce3621cb0d4ffeed2144793&testMode=0)
+- 撸词新闻  [No.2-22 - L类词串记忆树：其他L词](https://c.youdao.com/article/index.html?pid=9784)
+- 撸词词单  [No.2-22 - L类词串记忆树：其他L词](http://recite.youdao.com/share/index.html?bookId=a9f59b2ef87cfdecdeb012cbe897ee95&testMode=0&reciteType=list)
+
+---
+# R类词
+
+---
+- 单词课程  [No.2-25 - R类词串记忆树：进阶的R词](https://c.youdao.com/article/index.html?pid=9786)
+- 单词词单  [No.2-25 - R类词串记忆树：进阶的R词](http://recite.youdao.com/share/index.html?bookId=3296ada81f673b1b0f81eb7f1c82da4d&testMode=0&reciteType=list)
+- 撸词新闻  [No.2-25 - R类词串记忆树：进阶的R词](https://c.youdao.com/article/index.html?pid=9932)
+- 撸词词单  [No.2-25 - R类词串记忆树：进阶的R词](http://recite.youdao.com/share/index.html?bookId=f1caf07021b478180915a31e4baf9725&testMode=0&reciteType=list)
+
+---
 # 方位谜团
 
 ---
@@ -56,24 +130,6 @@ tags:
 - 撸词词单  [No.2-7 - 方位谜团：方位谜团：脱离到从属](http://recite.youdao.com/share/index.html?bookId=b7e1e31487e3ac3c74f66f2df85acde6&testMode=0&tt=1535811504293)
 
 ---
-# 阅读词汇
-
----
-- 单词课程  [No.2-8 - 阅读词汇综合复习（1）](https://c.youdao.com/article/index.html?pid=8924)
-- 单词词单  [No.2-8 - 阅读词汇综合复习（1）](http://recite.youdao.com/share/index.html?bookId=0dc70566e0ebae6eb6f1b5ac84f94b4d&testMode=0&tt=1535811563250)
-- 撸词新闻  [No.2-8 - 阅读词汇综合复习（1）](https://c.youdao.com/article/index.html?pid=9034)
-- 撸词词单  [No.2-8 - 阅读词汇综合复习（1）](http://recite.youdao.com/share/index.html?bookId=39ba9f27a8c10d8d69b7ee013e859199&testMode=0&tt=1535979432232)
-
----
-# M类词
-
----
-- 单词课程  [No.2-9 - M类词串记忆树：M构词初体验](https://c.youdao.com/article/index.html?pid=8656)
-- 单词词单  [No.2-9 - M类词串记忆树：M构词初体验](http://recite.youdao.com/share/index.html?bookId=0f9e0a0db4f837e574284f600f15576d&testMode=0&tt=1535979596917)
-- 撸词新闻  [No.2-9 - M类词串记忆树：M构词初体验](https://c.youdao.com/article/index.html?pid=9142)
-- 撸词词单  [No.2-9 - M类词串记忆树：M构词初体验](http://recite.youdao.com/share/index.html?bookId=f5d99820ea3f19ec9225a4790fdddf21&testMode=0&tt=1536066275243)
-
----
 # 介词
 
 ---
@@ -82,26 +138,6 @@ tags:
 - 撸词新闻  [No.2-11 - 介词明星F4：for、from组合](https://c.youdao.com/article/index.html?pid=9220)
 - 撸词词单  [No.2-11 - 介词明星F4：for、from组合](http://recite.youdao.com/share/index.html?bookId=0c03339788560d4e0e9010943dac82c8&testMode=0&tt=1536207356770)
 
----
-# F类词
-
----
-- 单词课程  [No.2-12 - F类词串记忆树：F逻辑图谱](https://c.youdao.com/article/index.html?pid=9052) 
-- 单词词单  [No.2-12 - F类词串记忆树：F逻辑图谱](http://recite.youdao.com/share/index.html?bookId=fafde0f7eb0d66cdf6d1017b06d3d46a&testMode=0&tt=1536153781091)
-- 撸词新闻  [No.2-12 - F类词串记忆树：F逻辑图谱](https://c.youdao.com/article/index.html?pid=9248)
-- 撸词词单  [No.2-12 - F类词串记忆树：F逻辑图谱](http://recite.youdao.com/share/index.html?bookId=9d3b3a552f2a1b4967afe594d5ad719d&testMode=0)
-
----
-- 单词课程  [No.2-14 - F类词串记忆树：从fort到fess](https://c.youdao.com/article/index.html?pid=9164)
-- 单词词单  [No.2-14 - F类词串记忆树：从fort到fess](http://recite.youdao.com/share/index.html?bookId=fb5b1a917c72e0c9708976619d3ce963&testMode=0)
-- 撸词新闻  [No.2-14 - F类词串记忆树：从fort到fess](https://c.youdao.com/article/index.html?pid=9502)
-- 撸词词单  [No.2-14 - F类词串记忆树：从fort到fess](http://recite.youdao.com/share/index.html?bookId=f1ef6abfc93821599a1f7643cce4fe8c&testMode=0&reciteType=list)
-
----
-- 单词课程  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](https://c.youdao.com/article/index.html?pid=9214)
-- 单词词单  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](http://recite.youdao.com/share/index.html?bookId=47105b00ab6e237226a52a582857d84f&testMode=0&reciteType=list)
-- 撸词新闻  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](https://c.youdao.com/article/index.html?pid=9574)
-- 撸词词单  [No.2-16 -F类词串记忆树：F图谱逻辑延伸](http://recite.youdao.com/share/index.html?bookId=c91d7bd89127c173c32f2fbfee05ca36&testMode=0&reciteType=list)
 
 ---
 # China Daily词汇
@@ -129,6 +165,65 @@ tags:
 - 单词词单  [No.2-17 - China Daily词汇阅读（4）](http://recite.youdao.com/share/index.html?bookId=a5dec283076e686fb13f952302934e2c&testMode=0&reciteType=list)
 - 撸词新闻  [No.2-17 - China Daily词汇阅读（4）](https://c.youdao.com/article/index.html?pid=9594)
 - 撸词词单  [No.2-17 - China Daily词汇阅读（4）](http://recite.youdao.com/share/index.html?bookId=9aec88b9b4e1ea6249d68ae0fec622de&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-27 - China Daily词汇阅读（5）](https://c.youdao.com/article/index.html?pid=9856)
+- 单词词单  [No.2-27 - China Daily词汇阅读（5）](http://recite.youdao.com/share/index.html?bookId=dcab8619a319fbb7e1773d54e5990623&reciteType=list&testMode=0)
+- 撸词新闻  [No.2-27 - China Daily词汇阅读（5）](https://c.youdao.com/article/index.html?pid=10140)
+- 撸词词单  [No.2-27 - China Daily词汇阅读（5）](http://recite.youdao.com/share/index.html?bookId=00038b8f5ad391f1a788583515c9b526&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-28 - China Daily词汇阅读（6）](https://c.youdao.com/article/index.html?pid=9930)
+- 单词词单  [No.2-28 - China Daily词汇阅读（6）](http://recite.youdao.com/share/index.html?bookId=863fcbd5c666c7e2ded56f071371dee7&reciteType=list&testMode=0)
+- 撸词新闻  [No.2-28 - China Daily词汇阅读（6）](https://c.youdao.com/article/index.html?pid=10166)
+- 撸词词单  [No.2-28 - China Daily词汇阅读（6）](http://recite.youdao.com/share/index.html?bookId=e672d61b1965269b20c6100f14cae359&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-29 - China Daily词汇阅读（7）](https://c.youdao.com/article/index.html?pid=10088)
+- 单词词单  [No.2-29 - China Daily词汇阅读（7）](http://recite.youdao.com/share/index.html?bookId=2071682d35f7354d61918b9f8d0f6443&reciteType=list&testMode=0)
+- 撸词新闻  [No.2-29 - China Daily词汇阅读（7）](https://c.youdao.com/article/index.html?pid=10248)
+- 撸词词单  [No.2-29 - China Daily词汇阅读（7）](http://recite.youdao.com/share/index.html?bookId=d54981ab70169195084b29c4c1c3c34f&testMode=0&reciteType=list)
+
+---
+- 单词课程  [No.2-30 - China Daily词汇阅读（8）](https://c.youdao.com/article/index.html?pid=10154)
+- 单词词单  [No.2-30 - China Daily词汇阅读（8）](http://recite.youdao.com/share/index.html?bookId=c8698d6b17666da9815cf2f024acce2c&reciteType=list&testMode=0)
+- 撸词新闻  [No.2-30 - China Daily词汇阅读（8）](https://c.youdao.com/article/index.html?pid=10358)
+- 撸词词单  [No.2-30 - China Daily词汇阅读（8）](http://recite.youdao.com/share/index.html?bookId=2d88946496d2d9cde1b7363b4eccca2b&testMode=0&reciteType=list)
+
+---
+# 阅读词汇
+
+---
+- 单词课程  [No.2-8 - 阅读词汇综合复习（1）](https://c.youdao.com/article/index.html?pid=8924)
+- 单词词单  [No.2-8 - 阅读词汇综合复习（1）](http://recite.youdao.com/share/index.html?bookId=0dc70566e0ebae6eb6f1b5ac84f94b4d&testMode=0&tt=1535811563250)
+- 撸词新闻  [No.2-8 - 阅读词汇综合复习（1）](https://c.youdao.com/article/index.html?pid=9034)
+- 撸词词单  [No.2-8 - 阅读词汇综合复习（1）](http://recite.youdao.com/share/index.html?bookId=39ba9f27a8c10d8d69b7ee013e859199&testMode=0&tt=1535979432232)
+
+---
+# 文章词汇阅读
+
+---
+- 单词课程  [No.2-20 - 文章词汇阅读（5）](https://c.youdao.com/article/index.html?pid=9640)
+- 单词词单  [No.2-20 - 文章词汇阅读（5）](http://recite.youdao.com/share/index.html?bookId=84e932e9e47885599df549a729ea7cf2&testMode=0)
+- 撸词新闻  [No.2-20 - 文章词汇阅读（5）](https://c.youdao.com/article/index.html?pid=9690)
+
+---
+- 单词课程  [No.2-24 - 文章词汇阅读（6）](https://c.youdao.com/article/index.html?pid=9762)
+- 单词词单  [No.2-24 - 文章词汇阅读（6）](http://recite.youdao.com/share/index.html?bookId=5a79d39175f3ae3cde90afe624457a4d&testMode=0&reciteType=list)
+- 撸词新闻  [No.2-24 - 文章词汇阅读（6）](https://c.youdao.com/article/index.html?pid=9850)
+
+---
+# 阅读训练
+
+---
+- 单词课程  [No.2-23 - 阅读训练（5）](https://c.youdao.com/article/index.html?pid=9716)
+- 单词词单  [No.2-23 - 阅读训练（5）](http://recite.youdao.com/share/index.html?bookId=d52c25402d6f6cd5f0fcd83725aeb8bc&testMode=0)
+- 撸词新闻  [No.2-23 - 阅读训练（5）](https://c.youdao.com/article/index.html?pid=9808)
+- 撸词词单  [No.2-23 - 阅读训练（5）](http://recite.youdao.com/share/index.html?bookId=1d562391176e78a2f4132ead9b723ef6&testMode=0&reciteType=list)
+
+
+
+
 
 
 
