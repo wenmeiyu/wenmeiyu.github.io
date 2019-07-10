@@ -92,8 +92,65 @@ The blitzscale philosophy of buying customers at any price is peaking. After the
 ---
 # 30-June.05
 
+**Parasite review** — **creepy invasion** of the lifestyle **snatchers**
+- Parasite review  《寄生虫》影评
+	- parasite  寄生虫， 寄生生物，靠他人为生者
+	- review   影评，综述  n. 回顾；复习；评论；检讨；检阅
+- creepy invasion  可怕的入侵
+	- creepy  adj. 诡异的；令人毛骨悚然的；爬行的
+	- How creepy is your smart speaker?  你的智能音响有多可怕
+	- creep  v. 缓慢地爬  vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩
+	- invasion   n. 入侵，侵略；侵袭；侵犯
+	- invade   vt. 侵略；侵袭；侵扰；涌入
+- snatchers  掠夺者，抢夺者
+	- snatch  v. 夺得，抢走；一把抓起；（喻）反败为胜；
+
+Bong Joon-ho has returned to Cannes with a **luxuriously watchable** and **satirical suspense drama**. It runs as purringly smooth as the Mercedes driven by the lead character, played by Korean star Song Kang-ho.
+- luxuriously   华丽地，奢侈地
+	- luxury  n.奢侈
+	- luxurious  奢侈的
+	- the luxury  group
+- watchable   adj. 值得注意的；悦目的
+	- watch  观看
+- satirical  讽刺的
+	- a well-known satirical magazine  一个著名的讽刺杂志
+- suspense  小说，悬疑
+	- a suspense novel  一本悬疑小说
+	- a suspense movie  一部悬疑电影
+- drama  n. 戏剧，戏剧艺术；剧本；戏剧性事件
+	
+
+Song Kang-ho plays Ki-taek, a shiftless, unemployed man who lives in a chaotic, stinky and squalid basement with his wife, Chung-sook, his smart yet cynical twentysomething daughter, Ki-jung, and son, Ki-woo. They are all out of work and out of cash. Then Ki-woo gets a stroke of fortune: an old school-friend helps him get a lucrative tutoring job. With a fake college diploma created by Ki-jung, he shows up at the fabulously lavish home of the Park family.
+
+Likable Ki-woo is an instant hit with his new employers. Then the distrait lady of the house, Yeon-kyo, reveals that she also needs an art tutor for her young son, to mould his painting talents; Ki-woo suggests his sister (while concealing their relationship), and soon the brazen Ki-jung is also a success with these rich suckers.
+
+The poorer family see themselves in a distorting mirror that cruelly reveals to them how wretched they are by contrast and reveals the riches that could — and should — be theirs. It is almost a supernatural or sci-fi story; an invasion of the lifestyle snatchers. Parasite gets its tendrils into you.
+
 ---
 # 31-June.06
+
+Why I won’t be joining the queue at the top of **Everest**
+- Everest 珠穆朗玛峰
+	- Chomolungma
+	- Mount Everest
+
+For a climber, looking at Nirmal Purja’s picture last week of the queues close to Everest’s summit — delays that may have contributed to several deaths – is something that inspires dread.
+- inspires dread  让人不寒而栗
+	- inspire vt. 激发；鼓舞；启示；产生；使生灵感
+	- dread   恐惧，害怕，忧虑  v. 惧怕，担心；敬畏 n. 恐惧，可怕的人（或物）；（鸟群的）惊飞，惊起；将头发编成“骇人”发型的人 adj. 可怕的；令人敬畏的
+	- a strong feeling of fear or worry
+	- the dread of losing what we love 害怕失去所爱的恐惧
+	- He is dreading the exam  他很担心这次考试
+
+It depicts an anxiety-inducing conga line in the death zone above 8, 000 metres, where the body can’t properly function, and where movement forwards and backwards is seriously impeded. In a sport where efficient autonomous movement is regarded as crucial to safety, you want to ask, why would you put yourself in this position? The answer is to be found, in large part, in the commodification of the world’s highest mountain.
+
+Everest has become largely detached from the rest of climbing and mountaineering. It has become a trophy experience, drawing too many otherwise without much interest in the sport.
+
+The transactional nature of most Everest attempts has seen a shift in how aspirants view responsibility, moving it away from a question of an individual’s own judgment and subcontracting it to guiding companies, some excellent, some of them far less scrupulous.
+
+For Nepal, where the spring Everest season is a valuable annual source of foreign currency, there is little interest in either limiting numbers or regulating the new cut-price Nepalese companies that have been set up to compete with the expensive foreign-owned guiding outfits.
+
+Looking at Purja’s photo, it is not only dread you sense, but hubris, too. In the suggestion that its summit can simply be bought, a key point has been lost: that climbing is as much about judicious turning back and failure as it is about reaching the top.
 
 ---
 # 32-June.07
